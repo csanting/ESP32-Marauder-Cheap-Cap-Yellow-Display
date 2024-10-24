@@ -14,9 +14,15 @@ TBA
 
 TBA
 
+## Target Board
+
+[Purchased Board](https://www.amazon.ca/dp/B0D5H84RDB?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
 ## Example Usage
 
 After flashing, your CYD module will boot into the Marauder interface. Refer to the [ESP32 Marauder Wiki](https://github.com/justcallmekoko/ESP32Marauder/wiki) for detailed usage instructions.
+
+For more information on the specific board, examples, libraries, and config files, please refer to the [manufacturer's provided files](http://pan.jczn1688.com/).
 
 ## Acknowledgments
 
